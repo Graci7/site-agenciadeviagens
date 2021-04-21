@@ -18,7 +18,7 @@ Com responsividade:
 
 No IphoneX
 
-![image](https://user-images.githubusercontent.com/81484387/115485359-eb017700-a22a-11eb-832b-440d997fcd25.png)
+![image](https://user-images.githubusercontent.com/81484387/115485359-eb017700-a22a-11eb-832b-440d997fcd25.png) ![image](https://user-images.githubusercontent.com/81484387/115485381-f9e82980-a22a-11eb-97be-099fbbd2653f.png)
 
-![image](https://user-images.githubusercontent.com/81484387/115485381-f9e82980-a22a-11eb-97be-099fbbd2653f.png)
+
 
